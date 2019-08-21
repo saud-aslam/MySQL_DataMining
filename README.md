@@ -8,7 +8,7 @@ business (identified by business id) on the Yelp data set.
 
 An interactive GUI in python gives full control to the user on the client side through the following buttons and widgets:
 
-Widgets
+## Widgets
 
 USER ID     : A specific user id is entered by the user
 
@@ -18,7 +18,7 @@ Start Date  : A specific start date is entered to choose the starting date for t
 
 End Date    : A specific end date is entered to choose the ending date for the subset to be used for training
 
-Buttons
+## Buttons
 
 Data Cleaning         : For all the sanity and integrity checks and cleaning of the data
 
@@ -35,7 +35,7 @@ Expected Rating-DT    : Predicts the rating given by using Decision tree classif
 Naive Validator Rating: Validates/Predicts the rating given by using Naive Bayes Predictor
 
 
-Summary:
+## Summary:
 1) Server/Client architecture implemeted with Server in MySQL and Client in Python
 2) Server Side implements two Data Mining Algorithms : (a) Decision Tree Classifier (b) Naive Bayes Predictor
 3) The Client allows :
